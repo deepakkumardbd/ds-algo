@@ -1,0 +1,15 @@
+
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(¹ß®¦øÿÿÿÿ
+S
+java:S1854?"8Remove this useless assignment to local variable "curr".(Ýó³Æüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄîÖÁÿÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(¹ß®¦øÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(¹ß®¦øÿÿÿÿ
+E
+java:S1172>"*Remove this unused method parameter "emp".(“žÔÄÿÿÿÿÿ
+D
+java:S1481?")Remove this unused "curr" local variable.(Ýó³Æüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›µ¦­þÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ÍÖàƒýÿÿÿÿ
+]
+java:S2259"BA "NullPointerException" could be thrown; "prev" is nullable here.(à¡Ã¼ýÿÿÿÿ

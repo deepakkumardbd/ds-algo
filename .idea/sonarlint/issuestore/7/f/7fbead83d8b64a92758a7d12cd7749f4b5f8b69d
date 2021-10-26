@@ -1,0 +1,12 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8¥ò°¨ø.
+U
+java:S1197"8Move the array designator from the variable to the type.(º‰8óäİ¨ø.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(·ï”š8Öş²¨ø.
+`
+java:S1854">Remove this useless assignment to local variable "charTomove".(…†˜¥üÿÿÿÿ8óäİ¨ø.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8ûìé¨ø.
+Q
+java:S1481"/Remove this unused "charTomove" local variable.(…†˜¥üÿÿÿÿ8óäİ¨ø.
+]	java:S125"<This block of commented-out lines of code should be removed.(«Š°•ıÿÿÿÿ8İ“îªø.

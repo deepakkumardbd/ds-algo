@@ -1,0 +1,14 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª¶ğ®şÿÿÿÿ8¾Æ•ÃÈ/
+C
+java:S1481	"&Remove this unused "s" local variable.(ÇñÚï8„Æ²ÃÈ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ç«‡°ÿÿÿÿÿ8õŒªÃÈ/
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8à€‹ÃÈ/
+R
+java:S1854	"5Remove this useless assignment to local variable "s".(ÇñÚï8„Æ²ÃÈ/
+Z
+java:S1197"8Move the array designator from the variable to the type.(şĞæ˜şÿÿÿÿ8¶’ÃÈ/
+U
+java:S1197"8Move the array designator from the variable to the type.(Ëİ€8¦£¤ÃÈ/

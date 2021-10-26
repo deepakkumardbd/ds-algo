@@ -1,0 +1,12 @@
+
+o	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Î•¯ùÿÿÿÿ8Ó¹›®ö.
+8
+java:S3626"Remove this redundant jump.(ûÁÝ…8Ó¹›®ö.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£ÿôŠ8Ó¹›®ö.
+T
+java:S1197""8Move the array designator from the variable to the type.(²‚«w8Ó¹›®ö.
+Z
+java:S1197	"8Move the array designator from the variable to the type.(€Î•¯ùÿÿÿÿ8Ó¹›®ö.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8Ó¹›®ö.
+8
+java:S3626&"Remove this redundant jump.(ûÁÝ…8Ó¹›®ö.

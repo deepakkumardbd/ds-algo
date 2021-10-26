@@ -1,0 +1,13 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘µ¬éúÿÿÿÿ8¸“½ò™/
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(¿™þ”ÿÿÿÿÿ8ŠÛ³õ™/
+Z
+java:S1197"8Move the array designator from the variable to the type.(ó‹–¤ûÿÿÿÿ8¸“½ò™/
+U
+java:S11977"8Move the array designator from the variable to the type.(ÑµŸú8¸“½ò™/
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8Ž°¿ò™/
+]	java:S1253"<This block of commented-out lines of code should be removed.(Ø±Ÿÿûÿÿÿÿ8äØ²õ™/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(‰ê­³þÿÿÿÿ8¸“½ò™/

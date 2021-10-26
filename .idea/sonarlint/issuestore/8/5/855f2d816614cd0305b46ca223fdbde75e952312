@@ -1,0 +1,17 @@
+
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ö„Éğúÿÿÿÿ
+=
+java:S1481"'Remove this unused "e5" local variable.(Û¹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ
+L
+java:S1854"6Remove this useless assignment to local variable "e5".(Û¹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ö„Éğúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢˜ğ‡
+J
+java:S3740"/Provide the parametrized type for this generic.(´Îõôıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢˜ğ‡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ßÑÁÒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ï­Šœ

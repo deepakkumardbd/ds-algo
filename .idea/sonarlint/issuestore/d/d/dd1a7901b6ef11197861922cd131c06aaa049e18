@@ -1,0 +1,27 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âý¡óûÿÿÿÿ8›¦»”š/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÄÍê8›¦»”š/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âý¡óûÿÿÿÿ8›¦»”š/
+Œ
+java:S1319Z"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(«î“â8þŒ¨²œ/
+R
+java:S22097"5Change this instance-reference to a static reference.(Ü¤åË8þŒ¨²œ/
+s
+java:S1104"QMake right a static final constant or non-public and provide accessors if needed.(²ä†ëÿÿÿÿÿ8›¦»”š/
+l
+java:S1104"PMake next a static final constant or non-public and provide accessors if needed.(²®ˆ8›¦»”š/
+l
+java:S1104
+"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ8›¦»”š/
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8›¦»”š/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âý¡óûÿÿÿÿ8›¦»”š/
+X
+java:S2696y"6Make the enclosing method "static" or remove this set.(’îâúúÿÿÿÿ8þŒ¨²œ/
+]	java:S1259"<This block of commented-out lines of code should be removed.(÷£”üÿÿÿÿ8þŒ¨²œ/
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(Ü¤åË8þŒ¨²œ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âý¡óûÿÿÿÿ8›¦»”š/
+]	java:S125Q"<This block of commented-out lines of code should be removed.(²§ìÍùÿÿÿÿ8þŒ¨²œ/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(‘Ó¥Ö8þŒ¨²œ/
+m
+java:S1104"PMake left a static final constant or non-public and provide accessors if needed.(ÓÙÅ§8›¦»”š/

@@ -1,0 +1,12 @@
+
+U
+java:S1197"8Move the array designator from the variable to the type.(ÀÎÍ÷8€£âµö.
+J
+java:S1125"(Remove the literal "true" boolean value.(•’õÿşÿÿÿÿ8İ™‡Åö.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8‹œØµö.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ü½ñï8±Å’Åö.
+G
+java:S1481"*Remove this unused "count" local variable.(æÕ¿¼8ÓÂÆÅö.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(¨ƒÔ»ÿÿÿÿÿ8Ö¯Ùµö.

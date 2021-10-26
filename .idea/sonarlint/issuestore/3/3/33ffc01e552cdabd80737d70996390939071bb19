@@ -1,0 +1,21 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(ÊŞóóûÿÿÿÿ8´¬ÁÃÈ/
+c
+java:S1126*"AReplace this if-then-else statement by a single return statement.(ÿø×ıÿÿÿÿ8Œ‰ÄÈ/
+c
+java:S11266"AReplace this if-then-else statement by a single return statement.(ÖÅƒ¯øÿÿÿÿ8Œ‰ÄÈ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³ùŞ¸şÿÿÿÿ8ÀÊËÃÈ/
+8
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8Œ‰ÄÈ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜ Î±øÿÿÿÿ8ÀÊËÃÈ/
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8‚—»ÃÈ/
+U
+java:S1197"8Move the array designator from the variable to the type.(ö®Œ–8ï”ÆÃÈ/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¸¢ºŒüÿÿÿÿ8Œ‰ÄÈ/
+Z
+java:S1854"8Remove this useless assignment to local variable "name".(ÕİÿÕıÿÿÿÿ8‰İ¼ÃÈ/
+K
+java:S1481")Remove this unused "name" local variable.(ÕİÿÕıÿÿÿÿ8‰İ¼ÃÈ/

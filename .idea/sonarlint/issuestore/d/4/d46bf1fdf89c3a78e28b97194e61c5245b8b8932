@@ -1,0 +1,13 @@
+
+
+java:S1319"tThe type of the "returnVal" object should be an interface such as "List" rather than the implementation "ArrayList".(àÆ€Òıÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+?
+java:S1172
+")Remove this unused method parameter "s2".(Öû™Ì
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ãë¸ûÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(òå¶Y
+N
+java:S1197 "8Move the array designator from the variable to the type.(ÕÊ™

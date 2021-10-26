@@ -1,0 +1,17 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ôô‘c8ÕÜÃ‚/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ôÜ‚Æ8ÕÜÃ‚/
+R
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8ã†¶ƒ/
+S
+java:S1197	"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ñï­ãúÿÿÿÿ8ÕÜÃ‚/
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8à×´ƒ/
+B
+java:S2129" Remove this "String" constructor(ªü«†ÿÿÿÿÿ8«Ï»ƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢­´‘8¾êĞ‚/
+]	java:S125"<This block of commented-out lines of code should be removed.(°ê±ıüÿÿÿÿ8®¶Çƒ/
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8à×´ƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(òº¸à8êäÑ‚/

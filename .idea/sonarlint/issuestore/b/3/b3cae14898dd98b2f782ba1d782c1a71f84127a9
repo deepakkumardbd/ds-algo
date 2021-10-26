@@ -1,0 +1,9 @@
+
+R
+java:S1481"0Remove this unused "resultValue" local variable.(Ûç™¾øÿÿÿÿ8‘³ÏÙö.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈúŒî8‘³ÏÙö.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨ƒÔ»ÿÿÿÿÿ8ä•ÒÙö.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ä•ÒÙö.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ı£ªë8âîÕÙö.

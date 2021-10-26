@@ -1,0 +1,13 @@
+
+S
+java:S1197
+"8Move the array designator from the variable to the type.(İò»¤ıÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(º¼É°
+w
+java:S4165"aRemove this useless assignment; "arr" already holds the assigned value along all execution paths.(øşÿÎ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞĞ¼˜ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡¯Òùÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(¶‘¤£

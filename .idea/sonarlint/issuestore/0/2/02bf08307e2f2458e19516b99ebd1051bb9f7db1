@@ -1,0 +1,21 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8²¥«î—/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(Îî¸Ûüÿÿÿÿ8ñ¯Şî—/
+M
+java:S1481="+Remove this unused "number" local variable.(ÅÊŠüøÿÿÿÿ8ò®¢î—/
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¢‘±Êúÿÿÿÿ8á·óğ—/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(È„³õ8…‰ãî—/
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ƒÄ¼8Ã«‘ñ—/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(¿ëš8ÿ„¿î—/
+K
+java:S3740"/Provide the parametrized type for this generic.(Ù¹²"8‹§¤î—/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(äÅğé8óß…ñ—/
+Z
+java:S1197"8Move the array designator from the variable to the type.(òŞ°¸ıÿÿÿÿ8¹¶¬î—/
+U
+java:S1197<"8Move the array designator from the variable to the type.(ÉñÈé8ò®¢î—/
+U
+java:S1197L"8Move the array designator from the variable to the type.(ÄŸøÔ8ò®¢î—/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜Ò•©8ËË¨î—/

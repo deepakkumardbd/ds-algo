@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºøÈ™
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¢Ûßüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤÷—ûÿÿÿÿ
+D
+java:S3740"/Provide the parametrized type for this generic.(ŒóÿC
+b
+java:S1192"GDefine a constant instead of duplicating this literal "deepak" 3 times.(î¶ìÔøÿÿÿÿ
